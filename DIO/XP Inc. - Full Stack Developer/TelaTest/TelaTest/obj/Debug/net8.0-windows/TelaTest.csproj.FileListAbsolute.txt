@@ -1,0 +1,16 @@
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\bin\Debug\net8.0-windows\TelaTest.exe
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\bin\Debug\net8.0-windows\TelaTest.deps.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\bin\Debug\net8.0-windows\TelaTest.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\bin\Debug\net8.0-windows\TelaTest.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\bin\Debug\net8.0-windows\TelaTest.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.Form1.resources
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.csproj.GenerateResource.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\refint\TelaTest.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\TelaTest.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TelaTest\TelaTest\obj\Debug\net8.0-windows\ref\TelaTest.dll

@@ -1,0 +1,17 @@
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\bin\Debug\net8.0-windows\TesteWindows.exe
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\bin\Debug\net8.0-windows\TesteWindows.deps.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\bin\Debug\net8.0-windows\TesteWindows.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\bin\Debug\net8.0-windows\TesteWindows.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\bin\Debug\net8.0-windows\TesteWindows.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.Form1.resources
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.Properties.Resources.resources
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.csproj.GenerateResource.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\refint\TesteWindows.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\TesteWindows.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\TesteWindows\TesteWindows\obj\Debug\net8.0-windows\ref\TesteWindows.dll

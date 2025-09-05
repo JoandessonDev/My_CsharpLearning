@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\linq\\linq\\entites\\produtic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|solutionrelative:linq\\entites\\produtic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\linq\\linq\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84357970-6C08-4E40-85EA-792841E594A3}|LINQ\\LINQ.csproj|solutionrelative:linq\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtic.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Entites\\Produtic.cs",
+              "RelativeDocumentMoniker": "LINQ\\Entites\\Produtic.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Entites\\Produtic.cs",
+              "RelativeToolTip": "LINQ\\Entites\\Produtic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:14:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "LINQ\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Entites\\Category.cs",
+              "RelativeToolTip": "LINQ\\Entites\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:13:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:13:19.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

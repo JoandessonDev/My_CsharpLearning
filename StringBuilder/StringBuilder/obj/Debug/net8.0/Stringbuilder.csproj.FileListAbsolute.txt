@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\bin\Debug\net8.0\Stringbuilder.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\bin\Debug\net8.0\Stringbuilder.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\bin\Debug\net8.0\Stringbuilder.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\bin\Debug\net8.0\Stringbuilder.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\bin\Debug\net8.0\Stringbuilder.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\Stringbuilder.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\Stringbuilder.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\Stringbuilder.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\classes abstratas\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\classes abstratas\\consoleapp1\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\classes abstratas\\consoleapp1\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\classes abstratas\\consoleapp1\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923898B8-803F-41E9-BAAF-FE0604A27DAF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BussinesAccount.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\BussinesAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\BussinesAccount.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\BussinesAccount.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\BussinesAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:16:11.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:15:59.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Entities\\Account.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:15:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Classes Abstratas\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:15:12.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

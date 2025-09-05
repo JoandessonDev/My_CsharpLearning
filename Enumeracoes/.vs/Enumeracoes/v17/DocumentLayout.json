@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\enumeracoes\\enumeracoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\enumeracoes\\enumeracoes\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\enumeracoes\\enumeracoes\\entites\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096A03AF-FF9B-44BF-8088-87803B29AEEC}|Enumeracoes\\Enumeracoes.csproj|solutionrelative:enumeracoes\\entites\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Entites\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Entites\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Entites\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enumeracoes\\Entites\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:52:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Entites\\Order.cs",
+              "RelativeToolTip": "Enumeracoes\\Entites\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:49:44.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Program.cs",
+              "RelativeDocumentMoniker": "Enumeracoes\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\Enumeracoes\\Enumeracoes\\Program.cs*",
+              "RelativeToolTip": "Enumeracoes\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:47:34.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

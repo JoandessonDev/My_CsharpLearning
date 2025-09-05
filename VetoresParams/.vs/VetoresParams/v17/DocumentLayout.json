@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\VetoresParams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A318ACA-DCED-4B6E-A92D-9A70402722CD}|VetoresParams\\VetoresParams.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\vetoresparams\\vetoresparams\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A318ACA-DCED-4B6E-A92D-9A70402722CD}|VetoresParams\\VetoresParams.csproj|solutionrelative:vetoresparams\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A318ACA-DCED-4B6E-A92D-9A70402722CD}|VetoresParams\\VetoresParams.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\vetoresparams\\vetoresparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A318ACA-DCED-4B6E-A92D-9A70402722CD}|VetoresParams\\VetoresParams.csproj|solutionrelative:vetoresparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\VetoresParams\\VetoresParams\\Calculator.cs",
+              "RelativeDocumentMoniker": "VetoresParams\\Calculator.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\VetoresParams\\VetoresParams\\Calculator.cs",
+              "RelativeToolTip": "VetoresParams\\Calculator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:47:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\VetoresParams\\VetoresParams\\Program.cs",
+              "RelativeDocumentMoniker": "VetoresParams\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\VetoresParams\\VetoresParams\\Program.cs",
+              "RelativeToolTip": "VetoresParams\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:45:51.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

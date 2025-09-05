@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\productserver\\productserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|solutionrelative:productserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\productserver\\productserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|solutionrelative:productserver\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\productserver\\productserver\\contex\\dtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|solutionrelative:productserver\\contex\\dtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\productserver\\productserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|solutionrelative:productserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\productserver\\productserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26BB7E37-A234-448A-B32B-BEE015BC9B20}|ProductServer\\ProductServer.csproj|solutionrelative:productserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Program.cs",
+              "RelativeDocumentMoniker": "ProductServer\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Program.cs",
+              "RelativeToolTip": "ProductServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:06:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductServer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductServer\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T02:47:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\appsettings.json",
+              "RelativeToolTip": "ProductServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T02:41:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\appsettings.Development.json",
+              "RelativeToolTip": "ProductServer\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T02:41:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtContext.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Contex\\DtContext.cs",
+              "RelativeDocumentMoniker": "ProductServer\\Contex\\DtContext.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\ProductServer\\ProductServer\\Contex\\DtContext.cs",
+              "RelativeToolTip": "ProductServer\\Contex\\DtContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T02:25:38.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

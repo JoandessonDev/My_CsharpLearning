@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\bin\Debug\net8.0\DemoLinq.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\bin\Debug\net8.0\DemoLinq.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\bin\Debug\net8.0\DemoLinq.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\bin\Debug\net8.0\DemoLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\bin\Debug\net8.0\DemoLinq.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\refint\DemoLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\DemoLinq.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DemoLinq]\DemoLinq]\obj\Debug\net8.0\ref\DemoLinq.dll

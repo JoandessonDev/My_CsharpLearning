@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.exe
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.deps.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\refint\IfTernario.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\IfTernario\IfTernario\obj\Debug\net8.0\ref\IfTernario.dll

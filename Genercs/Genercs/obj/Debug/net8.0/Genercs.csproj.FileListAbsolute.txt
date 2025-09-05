@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\bin\Debug\net8.0\Genercs.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\bin\Debug\net8.0\Genercs.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\bin\Debug\net8.0\Genercs.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\bin\Debug\net8.0\Genercs.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\bin\Debug\net8.0\Genercs.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\refint\Genercs.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\Genercs.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Genercs\Genercs\obj\Debug\net8.0\ref\Genercs.dll

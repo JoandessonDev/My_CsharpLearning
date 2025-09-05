@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ex02oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC41FA90-697A-4591-90A0-A5AEB0F90769}|ex02oop\\ex02oop.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\ex02oop\\ex02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC41FA90-697A-4591-90A0-A5AEB0F90769}|ex02oop\\ex02oop.csproj|solutionrelative:ex02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ex02oop\\ex02oop\\Program.cs",
+              "RelativeDocumentMoniker": "ex02oop\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ex02oop\\ex02oop\\Program.cs",
+              "RelativeToolTip": "ex02oop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:48:13.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

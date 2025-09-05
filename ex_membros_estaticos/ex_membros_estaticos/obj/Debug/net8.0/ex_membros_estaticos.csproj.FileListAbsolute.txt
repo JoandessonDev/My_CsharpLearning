@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\bin\Debug\net8.0\ex_membros_estaticos.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\bin\Debug\net8.0\ex_membros_estaticos.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\bin\Debug\net8.0\ex_membros_estaticos.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\bin\Debug\net8.0\ex_membros_estaticos.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\bin\Debug\net8.0\ex_membros_estaticos.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\refint\ex_membros_estaticos.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ex_membros_estaticos.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ex_membros_estaticos\ex_membros_estaticos\obj\Debug\net8.0\ref\ex_membros_estaticos.dll

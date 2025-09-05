@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ListasExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76245FC9-6EAD-4E61-8E79-CC58B3BCAED1}|ListasExercicio\\ListasExercicio.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\listasexercicio\\listasexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76245FC9-6EAD-4E61-8E79-CC58B3BCAED1}|ListasExercicio\\ListasExercicio.csproj|solutionrelative:listasexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76245FC9-6EAD-4E61-8E79-CC58B3BCAED1}|ListasExercicio\\ListasExercicio.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\listasexercicio\\listasexercicio\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76245FC9-6EAD-4E61-8E79-CC58B3BCAED1}|ListasExercicio\\ListasExercicio.csproj|solutionrelative:listasexercicio\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ListasExercicio\\ListasExercicio\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ListasExercicio\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ListasExercicio\\ListasExercicio\\Funcionario.cs",
+              "RelativeToolTip": "ListasExercicio\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:45.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ListasExercicio\\ListasExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ListasExercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ListasExercicio\\ListasExercicio\\Program.cs",
+              "RelativeToolTip": "ListasExercicio\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:36:07.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

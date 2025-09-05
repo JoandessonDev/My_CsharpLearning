@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\bin\Debug\net8.0\encapsulamento.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\bin\Debug\net8.0\encapsulamento.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\bin\Debug\net8.0\encapsulamento.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\bin\Debug\net8.0\encapsulamento.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\bin\Debug\net8.0\encapsulamento.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\refint\encapsulamento.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\encapsulamento.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\encapsulamento\encapsulamento\obj\Debug\net8.0\ref\encapsulamento.dll

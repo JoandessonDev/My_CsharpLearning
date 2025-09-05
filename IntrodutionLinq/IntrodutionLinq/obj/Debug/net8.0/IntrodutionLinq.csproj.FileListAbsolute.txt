@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\bin\Debug\net8.0\IntrodutionLinq.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\bin\Debug\net8.0\IntrodutionLinq.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\bin\Debug\net8.0\IntrodutionLinq.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\bin\Debug\net8.0\IntrodutionLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\bin\Debug\net8.0\IntrodutionLinq.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\refint\IntrodutionLinq.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\IntrodutionLinq.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IntrodutionLinq\IntrodutionLinq\obj\Debug\net8.0\ref\IntrodutionLinq.dll

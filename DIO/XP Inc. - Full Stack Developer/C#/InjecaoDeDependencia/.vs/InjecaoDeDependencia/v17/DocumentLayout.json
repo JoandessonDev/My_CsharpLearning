@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\injecaodedependencia\\injecaodedependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|solutionrelative:injecaodedependencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\injecaodedependencia\\injecaodedependencia\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|solutionrelative:injecaodedependencia\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\injecaodedependencia\\injecaodedependencia\\service\\outlookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|solutionrelative:injecaodedependencia\\service\\outlookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\injecaodedependencia\\injecaodedependencia\\service\\gmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|solutionrelative:injecaodedependencia\\service\\gmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\injecaodedependencia\\injecaodedependencia\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE863A3A-4293-4116-ACFD-50F48A35BCC5}|InjecaoDeDependencia\\InjecaoDeDependencia.csproj|solutionrelative:injecaodedependencia\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutlookService.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\OutlookService.cs",
+              "RelativeDocumentMoniker": "InjecaoDeDependencia\\Service\\OutlookService.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\OutlookService.cs",
+              "RelativeToolTip": "InjecaoDeDependencia\\Service\\OutlookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:34:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "InjecaoDeDependencia\\Service\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\NotificationService.cs",
+              "RelativeToolTip": "InjecaoDeDependencia\\Service\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:37:22.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "InjecaoDeDependencia\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\IEmailService.cs",
+              "RelativeToolTip": "InjecaoDeDependencia\\Service\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:35:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GmailService.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\GmailService.cs",
+              "RelativeDocumentMoniker": "InjecaoDeDependencia\\Service\\GmailService.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Service\\GmailService.cs",
+              "RelativeToolTip": "InjecaoDeDependencia\\Service\\GmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:32:59.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Program.cs",
+              "RelativeDocumentMoniker": "InjecaoDeDependencia\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\InjecaoDeDependencia\\InjecaoDeDependencia\\Program.cs",
+              "RelativeToolTip": "InjecaoDeDependencia\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:32:02.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

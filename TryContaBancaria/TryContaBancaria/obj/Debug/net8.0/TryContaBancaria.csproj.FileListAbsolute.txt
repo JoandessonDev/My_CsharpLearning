@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\bin\Debug\net8.0\TryContaBancaria.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\bin\Debug\net8.0\TryContaBancaria.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\bin\Debug\net8.0\TryContaBancaria.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\bin\Debug\net8.0\TryContaBancaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\bin\Debug\net8.0\TryContaBancaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\refint\TryContaBancaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\TryContaBancaria.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\TryContaBancaria\TryContaBancaria\obj\Debug\net8.0\ref\TryContaBancaria.dll

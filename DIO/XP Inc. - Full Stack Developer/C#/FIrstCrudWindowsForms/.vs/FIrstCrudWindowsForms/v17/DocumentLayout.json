@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|c:\\users\\joandesson\\desktop\\c#\\dio\\xp inc. - full stack developer\\c#\\firstcrudwindowsforms\\firstcrudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|solutionrelative:firstcrudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\firstcrudwindowsforms\\managementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|solutionrelative:firstcrudwindowsforms\\managementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\firstcrudwindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|solutionrelative:firstcrudwindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\firstcrudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|solutionrelative:firstcrudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\firstcrudwindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11FFDE-0360-49D1-9362-47ADE72B2994}|FIrstCrudWindowsForms\\FIrstCrudWindowsForms.csproj|solutionrelative:firstcrudwindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "FIrstCrudWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.cs",
+              "RelativeToolTip": "FIrstCrudWindowsForms\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:28:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagementDB.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\ManagementDB.cs",
+              "RelativeDocumentMoniker": "FIrstCrudWindowsForms\\ManagementDB.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\ManagementDB.cs",
+              "RelativeToolTip": "FIrstCrudWindowsForms\\ManagementDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:46:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FIrstCrudWindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "FIrstCrudWindowsForms\\Form1.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:28:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "FIrstCrudWindowsForms\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Program.cs",
+              "RelativeToolTip": "FIrstCrudWindowsForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:27:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "FIrstCrudWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\DIO\\XP Inc. - Full Stack Developer\\C#\\FIrstCrudWindowsForms\\FIrstCrudWindowsForms\\Form1.cs [Design]*",
+              "RelativeToolTip": "FIrstCrudWindowsForms\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:25:04.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

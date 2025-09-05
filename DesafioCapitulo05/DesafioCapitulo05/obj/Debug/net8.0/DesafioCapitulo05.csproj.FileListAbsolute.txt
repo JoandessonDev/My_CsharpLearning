@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\bin\Debug\net8.0\DesafioCapitulo05.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\bin\Debug\net8.0\DesafioCapitulo05.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\bin\Debug\net8.0\DesafioCapitulo05.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\bin\Debug\net8.0\DesafioCapitulo05.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\bin\Debug\net8.0\DesafioCapitulo05.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\refint\DesafioCapitulo05.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\DesafioCapitulo05.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioCapitulo05\DesafioCapitulo05\obj\Debug\net8.0\ref\DesafioCapitulo05.dll

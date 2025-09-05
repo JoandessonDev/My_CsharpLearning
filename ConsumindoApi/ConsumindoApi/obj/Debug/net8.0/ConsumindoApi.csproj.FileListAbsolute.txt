@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\refint\ConsumindoApi.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ref\ConsumindoApi.dll

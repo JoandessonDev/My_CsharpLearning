@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\bin\Debug\net8.0\Iterfaces.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\bin\Debug\net8.0\Iterfaces.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\bin\Debug\net8.0\Iterfaces.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\bin\Debug\net8.0\Iterfaces.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\bin\Debug\net8.0\Iterfaces.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\refint\Iterfaces.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\Iterfaces.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Iterfaces\Iterfaces\obj\Debug\net8.0\ref\Iterfaces.dll

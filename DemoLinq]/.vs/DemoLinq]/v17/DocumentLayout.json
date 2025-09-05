@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\demolinq]\\demolinq]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|solutionrelative:demolinq]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\demolinq]\\demolinq]\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|solutionrelative:demolinq]\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\demolinq]\\demolinq]\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAF27F3-DE7D-43D1-BA0D-71E182B18B64}|DemoLinq]\\DemoLinq.csproj|solutionrelative:demolinq]\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "DemoLinq]\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Entites\\Product.cs",
+              "RelativeToolTip": "DemoLinq]\\Entites\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:49:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "DemoLinq]\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Entites\\Category.cs",
+              "RelativeToolTip": "DemoLinq]\\Entites\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:49:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLinq]\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\DemoLinq]\\DemoLinq]\\Program.cs",
+              "RelativeToolTip": "DemoLinq]\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:47:57.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

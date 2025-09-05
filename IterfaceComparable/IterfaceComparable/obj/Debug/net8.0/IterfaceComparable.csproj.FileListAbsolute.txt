@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\bin\Debug\net8.0\IterfaceComparable.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\bin\Debug\net8.0\IterfaceComparable.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\bin\Debug\net8.0\IterfaceComparable.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\bin\Debug\net8.0\IterfaceComparable.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\bin\Debug\net8.0\IterfaceComparable.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\refint\IterfaceComparable.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\IterfaceComparable.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\IterfaceComparable\IterfaceComparable\obj\Debug\net8.0\ref\IterfaceComparable.dll

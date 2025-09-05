@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\bin\Debug\net8.0\RevPolimorismo.exe
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\bin\Debug\net8.0\RevPolimorismo.deps.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\bin\Debug\net8.0\RevPolimorismo.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\bin\Debug\net8.0\RevPolimorismo.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\bin\Debug\net8.0\RevPolimorismo.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\refint\RevPolimorismo.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\RevPolimorismo.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\RevPolimorismo\RevPolimorismo\obj\Debug\net8.0\ref\RevPolimorismo.dll

@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\bin\Debug\net8.0\teste.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\bin\Debug\net8.0\teste.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\teste\teste\obj\Debug\net8.0\ref\teste.dll

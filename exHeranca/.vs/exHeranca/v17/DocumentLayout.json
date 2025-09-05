@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\exheranca\\exheranca\\entites\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|solutionrelative:exheranca\\entites\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\exheranca\\exheranca\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|solutionrelative:exheranca\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\exheranca\\exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708D07DA-14CE-45C1-B8AD-41B56C44581D}|exHeranca\\exHeranca.csproj|solutionrelative:exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutsourceEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Entites\\OutsourceEmployee.cs",
+              "RelativeDocumentMoniker": "exHeranca\\Entites\\OutsourceEmployee.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Entites\\OutsourceEmployee.cs",
+              "RelativeToolTip": "exHeranca\\Entites\\OutsourceEmployee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:39:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Entites\\Employee.cs",
+              "RelativeDocumentMoniker": "exHeranca\\Entites\\Employee.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Entites\\Employee.cs",
+              "RelativeToolTip": "exHeranca\\Entites\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA4wBEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:33:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "exHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\exHeranca\\exHeranca\\Program.cs",
+              "RelativeToolTip": "exHeranca\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:31:59.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\bin\Debug\net8.0\for.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\bin\Debug\net8.0\for.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\bin\Debug\net8.0\for.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\bin\Debug\net8.0\for.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\bin\Debug\net8.0\for.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\refint\for.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for\for\obj\Debug\net8.0\ref\for.dll

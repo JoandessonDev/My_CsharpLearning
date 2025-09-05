@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0836A374-60DE-4873-BF29-CF8AA52B1D21}|While\\While.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\while\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0836A374-60DE-4873-BF29-CF8AA52B1D21}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\While\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\While\\While\\Program.cs",
+              "RelativeToolTip": "While\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:22:15.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

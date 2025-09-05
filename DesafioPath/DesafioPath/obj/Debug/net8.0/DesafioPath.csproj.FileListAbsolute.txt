@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\bin\Debug\net8.0\DesafioPath.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\bin\Debug\net8.0\DesafioPath.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\bin\Debug\net8.0\DesafioPath.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\bin\Debug\net8.0\DesafioPath.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\bin\Debug\net8.0\DesafioPath.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\refint\DesafioPath.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\DesafioPath.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioPath\DesafioPath\obj\Debug\net8.0\ref\DesafioPath.dll

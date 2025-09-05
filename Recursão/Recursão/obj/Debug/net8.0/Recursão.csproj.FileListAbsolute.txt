@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\bin\Debug\net8.0\Recursão.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\bin\Debug\net8.0\Recursão.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\bin\Debug\net8.0\Recursão.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\bin\Debug\net8.0\Recursão.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\bin\Debug\net8.0\Recursão.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\refint\Recursão.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\Recursão.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Recursão\Recursão\obj\Debug\net8.0\ref\Recursão.dll

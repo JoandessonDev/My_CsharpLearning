@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\bin\Debug\net8.0\HerancaMultipla.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\refint\HerancaMultipla.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\HerancaMultipla.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\HerancaMultipla\HerancaMultipla\obj\Debug\net8.0\ref\HerancaMultipla.dll

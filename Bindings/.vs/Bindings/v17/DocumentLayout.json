@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\bindings\\bindings\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|solutionrelative:bindings\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\bindings\\bindings\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|solutionrelative:bindings\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\bindings\\bindings\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD4ECD5-6FE8-44E6-8A76-91AA221F9604}|Bindings\\Bindings.csproj|solutionrelative:bindings\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bindings\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\MainWindow.xaml",
+              "RelativeToolTip": "Bindings\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T20:30:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Bindings\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\AssemblyInfo.cs",
+              "RelativeToolTip": "Bindings\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:17:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bindings\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Bindings\\Bindings\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bindings\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwGkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:26:50.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

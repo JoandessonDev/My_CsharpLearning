@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\entites\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\entites\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\entites\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\entites\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\entites\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\entites\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\entites\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\entites\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\interfaces\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\herancamultipla\\herancamultipla\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72F4C0-BD95-4C7D-A169-3BEDCD56142D}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Entites\\ComboDevice.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\ComboDevice.cs",
+              "RelativeToolTip": "HerancaMultipla\\Entites\\ComboDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:59:55.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Interfaces\\IPrinter.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Interfaces\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Interfaces\\IPrinter.cs",
+              "RelativeToolTip": "HerancaMultipla\\Interfaces\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:58:21.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Interfaces\\IScanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Interfaces\\IScanner.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Interfaces\\IScanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Interfaces\\IScanner.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:57:53.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Printer.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Entites\\Printer.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Printer.cs",
+              "RelativeToolTip": "HerancaMultipla\\Entites\\Printer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:42:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Scanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Entites\\Scanner.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Scanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Entites\\Scanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:42:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Device.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Entites\\Device.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Entites\\Device.cs",
+              "RelativeToolTip": "HerancaMultipla\\Entites\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:39:30.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeToolTip": "HerancaMultipla\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:37:58.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

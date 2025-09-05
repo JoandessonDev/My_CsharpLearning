@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\bin\Debug\net8.0\casting.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\bin\Debug\net8.0\casting.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\bin\Debug\net8.0\casting.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\bin\Debug\net8.0\casting.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\bin\Debug\net8.0\casting.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\refint\casting.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\casting.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\casting\casting\obj\Debug\net8.0\ref\casting.dll

@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\bin\Debug\net8.0\PesquisaBinaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\refint\PesquisaBinaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\PesquisaBinaria.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\PesquisaBinaria\PesquisaBinaria\obj\Debug\net8.0\ref\PesquisaBinaria.dll

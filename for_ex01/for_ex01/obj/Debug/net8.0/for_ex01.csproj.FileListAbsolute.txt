@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\bin\Debug\net8.0\for_ex01.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\bin\Debug\net8.0\for_ex01.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\bin\Debug\net8.0\for_ex01.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\bin\Debug\net8.0\for_ex01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\bin\Debug\net8.0\for_ex01.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\refint\for_ex01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\for_ex01.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\for_ex01\for_ex01\obj\Debug\net8.0\ref\for_ex01.dll

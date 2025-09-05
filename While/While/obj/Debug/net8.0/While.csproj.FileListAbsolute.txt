@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\bin\Debug\net8.0\While.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\bin\Debug\net8.0\While.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\bin\Debug\net8.0\While.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\bin\Debug\net8.0\While.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\While\While\obj\Debug\net8.0\ref\While.dll

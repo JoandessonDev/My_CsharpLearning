@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\extensionmethods\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\extensionmethods\\extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\joandesson\\desktop\\c#\\course_nelio\\logic_with_c#\\extensionmethods\\extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEC9BB-2057-4E99-AA8C-DCF3368ED3F9}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:25:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:12:13.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\JOANDESSON\\Desktop\\C#\\Course_Nelio\\Logic_with_C#\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:09:49.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

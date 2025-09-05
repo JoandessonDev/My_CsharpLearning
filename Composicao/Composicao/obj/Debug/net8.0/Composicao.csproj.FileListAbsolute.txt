@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Composicao\Composicao\obj\Debug\net8.0\ref\Composicao.dll

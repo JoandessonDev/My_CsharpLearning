@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\bin\Debug\net8.0\DesafioEnumComposicao.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\bin\Debug\net8.0\DesafioEnumComposicao.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\bin\Debug\net8.0\DesafioEnumComposicao.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\bin\Debug\net8.0\DesafioEnumComposicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\bin\Debug\net8.0\DesafioEnumComposicao.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\refint\DesafioEnumComposicao.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\DesafioEnumComposicao.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\DesafioEnumComposicao\DesafioEnumComposicao\obj\Debug\net8.0\ref\DesafioEnumComposicao.dll

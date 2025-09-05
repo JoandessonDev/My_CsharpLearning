@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\bin\Debug\net8.0\Contrutores_aula01.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\bin\Debug\net8.0\Contrutores_aula01.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\bin\Debug\net8.0\Contrutores_aula01.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\bin\Debug\net8.0\Contrutores_aula01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\bin\Debug\net8.0\Contrutores_aula01.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\refint\Contrutores_aula01.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\Contrutores_aula01.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Contrutores_aula01\Contrutores_aula01\obj\Debug\net8.0\ref\Contrutores_aula01.dll

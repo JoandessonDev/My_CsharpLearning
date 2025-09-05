@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\bin\Debug\net8.0\InjecaoDeDependencia.exe
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\bin\Debug\net8.0\InjecaoDeDependencia.deps.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\bin\Debug\net8.0\InjecaoDeDependencia.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\bin\Debug\net8.0\InjecaoDeDependencia.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\bin\Debug\net8.0\InjecaoDeDependencia.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\refint\InjecaoDeDependencia.dll
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.pdb
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\InjecaoDeDependencia.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\DIO\XP Inc. - Full Stack Developer\InjecaoDeDependencia\InjecaoDeDependencia\obj\Debug\net8.0\ref\InjecaoDeDependencia.dll

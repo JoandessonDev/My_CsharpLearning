@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\bin\Debug\net8.0\Exec_Vetores.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\bin\Debug\net8.0\Exec_Vetores.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\bin\Debug\net8.0\Exec_Vetores.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\bin\Debug\net8.0\Exec_Vetores.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\bin\Debug\net8.0\Exec_Vetores.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\refint\Exec_Vetores.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\Exec_Vetores.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Exec_Vetores\Exec_Vetores\obj\Debug\net8.0\ref\Exec_Vetores.dll

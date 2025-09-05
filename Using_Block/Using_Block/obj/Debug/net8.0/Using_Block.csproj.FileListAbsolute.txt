@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\bin\Debug\net8.0\Using_Block.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\bin\Debug\net8.0\Using_Block.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\bin\Debug\net8.0\Using_Block.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\bin\Debug\net8.0\Using_Block.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\bin\Debug\net8.0\Using_Block.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\refint\Using_Block.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\Using_Block.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Using_Block\Using_Block\obj\Debug\net8.0\ref\Using_Block.dll

@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\bin\Debug\net8.0\Ex2Sec10.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\bin\Debug\net8.0\Ex2Sec10.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\bin\Debug\net8.0\Ex2Sec10.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\bin\Debug\net8.0\Ex2Sec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\bin\Debug\net8.0\Ex2Sec10.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\refint\Ex2Sec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\Ex2Sec10.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Ex2Sec10\Ex2Sec10\obj\Debug\net8.0\ref\Ex2Sec10.dll

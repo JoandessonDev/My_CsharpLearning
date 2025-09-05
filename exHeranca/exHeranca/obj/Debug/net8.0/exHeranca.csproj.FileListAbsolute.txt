@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\bin\Debug\net8.0\exHeranca.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\bin\Debug\net8.0\exHeranca.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\bin\Debug\net8.0\exHeranca.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\bin\Debug\net8.0\exHeranca.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\bin\Debug\net8.0\exHeranca.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\refint\exHeranca.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\exHeranca.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\exHeranca\exHeranca\obj\Debug\net8.0\ref\exHeranca.dll

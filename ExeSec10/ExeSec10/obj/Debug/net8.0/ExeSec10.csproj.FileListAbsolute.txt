@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\bin\Debug\net8.0\ExeSec10.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\bin\Debug\net8.0\ExeSec10.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\bin\Debug\net8.0\ExeSec10.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\bin\Debug\net8.0\ExeSec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\bin\Debug\net8.0\ExeSec10.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\refint\ExeSec10.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ExeSec10.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\ExeSec10\ExeSec10\obj\Debug\net8.0\ref\ExeSec10.dll

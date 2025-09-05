@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioEnumComposicao/1.0.0": {
+        "runtime": {
+          "DesafioEnumComposicao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioEnumComposicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

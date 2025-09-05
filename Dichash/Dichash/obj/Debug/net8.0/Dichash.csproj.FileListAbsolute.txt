@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\bin\Debug\net8.0\Dichash.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\bin\Debug\net8.0\Dichash.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\bin\Debug\net8.0\Dichash.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\bin\Debug\net8.0\Dichash.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\bin\Debug\net8.0\Dichash.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\refint\Dichash.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\Dichash.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\Dichash\Dichash\obj\Debug\net8.0\ref\Dichash.dll

@@ -1,0 +1,14 @@
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.exe
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.deps.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.runtimeconfig.json
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\net8.0\CondicionalTernaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.AssemblyInfo.cs
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\refint\CondicionalTernaria.dll
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.pdb
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\CondicionalTernaria.genruntimeconfig.cache
+C:\Users\JOANDESSON\Desktop\C#\Course_Nelio\Logic_with_C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\net8.0\ref\CondicionalTernaria.dll
